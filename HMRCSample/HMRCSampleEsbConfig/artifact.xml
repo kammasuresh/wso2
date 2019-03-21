@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><artifacts>
+    <artifact name="loggingSeq" groupId="com.hmrc.wso2.sample.HMRCSampleEsbConfig.sequence" version="1.0.0" type="synapse/sequence" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/sequences/loggingSeq.xml</file>
+    </artifact>
+    <artifact name="callit" groupId="com.hmrc.wso2.sample.HMRCSampleEsbConfig.api" version="1.0.0" type="synapse/api" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/api/callit.xml</file>
+    </artifact>
+</artifacts>
